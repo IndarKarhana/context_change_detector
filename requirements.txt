@@ -1,4 +1,5 @@
 google.generativeai
+PyAudio
 pathlib
 speech_recognition
 streamlit

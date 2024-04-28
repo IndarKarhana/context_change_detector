@@ -1,0 +1,5 @@
+google.generativeai
+hashlib
+pathlib
+speech_recognition
+streamlit
